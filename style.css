@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    margin-top: 20px;
+    background-color:black;
+    color: white;
+}
+
+h1{
+    font-size: large;
+}
+
+.button{
+    background-color: white;
+    color: black;
+    font-style: italic;
+}
+input{
+    margin-left: 5px;
+}
+#result{
+    color: white;
+    font-size: larger;
+}
+ .item{
+    margin-top: 100px;
+    font-size: 25px;
+ }
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
